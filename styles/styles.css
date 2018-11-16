@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    padding: 2px;
+    justify-content: space-around;
+
+}
+
+.row {
+    /* display: flex; */
+}
+.col-sm-4 {
+    margin-left: 0%;
+}
+form {
+}
+
+.col-sm-8 {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.gif-gallery {
+    justify-content: space-around;
+    margin-top: 2em;
+}
